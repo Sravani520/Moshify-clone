@@ -1,0 +1,5 @@
+{
+    "explorer.excludeGitIgnore": false,
+    "git.enabled": true,
+    "git.ignoreLimitWarning": true
+}
